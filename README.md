@@ -293,6 +293,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PLP Team for the opportunity
 
 ---
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/316db203-5550-47cb-9327-d64374927192)
+
+
 
 **Built with ❤️ for the crypto community by Mercylyne Jepleting**
 
